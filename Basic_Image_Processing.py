@@ -60,3 +60,5 @@ def proportional_scaling(name,img,SCALE):
 
 # cv_show(img_china)
 # cv_show("imag_gray",img_gray)
+
+#This is an useless sentence, to test the Branch Operate
