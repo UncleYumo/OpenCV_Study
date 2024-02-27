@@ -61,4 +61,9 @@ def proportional_scaling(img,SCALE):
 
 # cv_show(img_china)
 # cv_show("imag_gray",img_gray)
+<<<<<<< HEAD
 #cv_show((proportional_scaling(img_jimmy,0.1)))
+=======
+
+#This is an useless sentence, to test the Branch Operate，and this sentence is from the remote repository!
+>>>>>>> 1423ba4ec802d5118439c41579fb9cea70563526
