@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 #
 img_china = cv2.imread('china.jpg')
+img_jimmy = cv2.imread('jimmy.jpg')
 # img_cat = cv2.imread('cat.jpg') # inform:BGR
 # # cv2.IMREAD_GRAYSCALE : 0
 # img_cat_gray = cv2.imread('cat.jpg',cv2.IMREAD_GRAYSCALE)
@@ -31,7 +32,7 @@ def cv_show_vedio(name,name2):
     vc.release()
     cv2.destroyAllWindows()
 
-def proportional_scaling(name,img,SCALE):
+def proportional_scaling(img,SCALE):
     rows,cols = img.shape[:2]
     new_cols = int(cols*SCALE)
     new_rows = int(rows*SCALE)
@@ -60,4 +61,4 @@ def proportional_scaling(name,img,SCALE):
 
 # cv_show(img_china)
 # cv_show("imag_gray",img_gray)
-#分支
+#cv_show((proportional_scaling(img_jimmy,0.1)))

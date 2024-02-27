@@ -57,5 +57,5 @@ for row in range(0, times):
             locate_matrix[row+1][col] = 0
             locate_matrix[row+1][col+1] = 0
 
-showMatrix(matrix)
-showMatrix(locate_matrix)
+#showMatrix(matrix)
+#showMatrix(locate_matrix)

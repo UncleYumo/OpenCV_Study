@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a270fde3-ff22-4774-b151-b93a72133324" name="更改" comment="分支操作">
+      <change afterPath="$PROJECT_DIR$/imagOperator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_Image_Processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Image_Processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corrosion_Operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Corrosion_Operation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/erosion_algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/erosion_algorithm.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cjBpVh1V2dSTsdVcF1lm8D5Am7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Basic_Image_Processing.executor": "Run",
+    "Python.Corrosion_Operation.executor": "Run",
+    "Python.imagOperator.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "ignore_missing_gitignore": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1708615293094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708615293094</updated>
+    </task>
+    <task id="LOCAL-00001" summary="分支操作异常测试">
+      <option name="closed" value="true" />
+      <created>1708615442356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708615442356</updated>
+    </task>
+    <task id="LOCAL-00002" summary="分支操作异常测试">
+      <option name="closed" value="true" />
+      <created>1708615691925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708615691925</updated>
+    </task>
+    <task id="LOCAL-00003" summary="分支操作异常测试2">
+      <option name="closed" value="true" />
+      <created>1708615777577</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708615777577</updated>
+    </task>
+    <task id="LOCAL-00004" summary="分支操作异常测试2">
+      <option name="closed" value="true" />
+      <created>1708615805465</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708615805465</updated>
+    </task>
+    <task id="LOCAL-00005" summary="主干操作">
+      <option name="closed" value="true" />
+      <created>1708616050952</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708616050952</updated>
+    </task>
+    <task id="LOCAL-00006" summary="分支操作">
+      <option name="closed" value="true" />
+      <created>1708616174416</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708616174416</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="分支操作异常测试" />
+    <MESSAGE value="分支操作异常测试2" />
+    <MESSAGE value="主干操作" />
+    <MESSAGE value="分支操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="分支操作" />
+  </component>
+</project>
